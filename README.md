@@ -27,6 +27,6 @@ Inicia um servidor dentro da pasta do projeto para que o projeto instalado possa
 
 ### Apk para teste
 Você pode testar esse projeto no seu celular android baixando ele a partir do link:
-https://drive.google.com/file/d/13Bq36w9KvIPjcgPmbzNzpghBjYRk-u2r/view?usp=sharing
+https://drive.google.com/file/d/1M3_P8WhJEp7kMpV4tBdFhSQNbqADOk8f/view?usp=sharing
 
 
