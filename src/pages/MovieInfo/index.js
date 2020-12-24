@@ -34,7 +34,7 @@ const MovieInfo = ({ navigation, route }) => {
 	async function getMovie() {
 		setIsLoading(true);
 		try {
-			const response = await api.get(`?apikey=925eba28&i=${route.params.id}`);
+			const response = await api.get(`?apikey=4711ff9f&i=${route.params.id}`);
 
 			setIsLoading(false);
 

@@ -31,7 +31,7 @@ const Home = ({ navigation }) => {
 
 		setIsLoading(true)
 		try {
-			const { data } = await api.get(`?apikey=925eba28&type=movie&s=${search.toLowerCase().replace(' ', '%20')}`);
+			const { data } = await api.get(`?apikey=4711ff9f&type=movie&s=${search.toLowerCase().replace(' ', '%20')}`);
 			setIsLoading(false);
 			if (data.Search) {
 				setMovies(data.Search);
